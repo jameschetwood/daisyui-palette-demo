@@ -1,0 +1,1 @@
+# daisyui-palette-demo
