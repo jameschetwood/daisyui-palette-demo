@@ -23,3 +23,6 @@ export default function Page() {
   return <PaletteDemo />;
 }
 ```
+
+## Demo with theme switcher
+https://daisyuipalette.designgui.io
