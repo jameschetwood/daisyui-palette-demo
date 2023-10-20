@@ -15,6 +15,16 @@ The official documentation is great, but having a component in your project that
 npm i daisyui-palette-demo
 ```
 
+
+```javascript
+// Add the library to your tailwind.config's content array
+const config = {
+    content: [
+        "node_modules/daisyui-palette-demo/dist/index.js"
+    ]
+}
+```
+
 ```react
 import React from "react";
 import PaletteDemo from "daisyui-palette-demo";
